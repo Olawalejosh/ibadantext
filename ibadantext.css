@@ -1,0 +1,38 @@
+.hov{
+    background-color: #ffffff;
+    padding: 10px;
+    border: none;
+    width: 30%;
+    border-radius: 25px;
+}
+.hov:hover{
+    background-color: green;
+    color: white;
+}
+#but{
+    background-color: #fdb915; width: 30%; padding: 10px; border: none;border-radius: 15px; margin-left: 240px;
+}
+.nov{
+   background-color: #fdb915;
+    padding: 10px;
+    border:none;
+    width: 28%;
+    border-radius: 25px
+}
+#nut{
+    background-color: #224093; width: 30%; padding: 10px; border: none;border-radius: 15px; margin-left: 200px;
+}
+.lov{
+    background-color:#ffffff;
+    padding: 10px;
+    border:none;
+    width: 28%;
+    border-radius: 25px
+}
+.lov:hover{
+    background-color: #224093;
+    color: #ffffff;
+}
+#lut{
+    background-color:#fdb915; width: 30%; padding: 10px; border: none;border-radius: 15px; margin-left: 200px;
+}
